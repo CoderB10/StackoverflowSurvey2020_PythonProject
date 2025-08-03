@@ -1,7 +1,7 @@
+<img width="3017" height="1543" alt="Dashboard" src="https://github.com/user-attachments/assets/b0b93f76-f7f9-4790-8aca-303015cdae60" />
 
-<img width="3017" height="1543" alt="Dashboard" src="https://github.com/user-attachments/assets/e36fe2ba-2141-404f-8ed1-5866b8799b46" />
-
-# 🧠 StackOverflow 2020 Developer Survey Analysis 📊
+# 🧠 StackOverflow 
+2020 Developer Survey Analysis 📊
 
 Welcome to my data analysis project based on the **2020 StackOverflow Developer Survey** — a global survey with responses from **64,000+ developers**! This project dives deep into the demographics, experiences, and preferences of developers worldwide using tools like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**. 🐍📈
 
@@ -19,6 +19,7 @@ The dataset was obtained from StackOverflow's **2020 Developer Survey**, one of 
   * Age (current & when they started coding)
   * Coding experience (total and professional)
   * Most used & preferred programming languages
+  * Most dreaded programming languages
   * Current job roles
   * Educational background
 
@@ -51,19 +52,28 @@ The dataset was obtained from StackOverflow's **2020 Developer Survey**, one of 
 
 ### 💻 Programming Languages
 
-* **Most used in 2020**:
+#### ✅ Most Used in 2020
 
-  * 🥇 JavaScript
-  * 🥈 HTML/CSS
-  * 🥉 SQL & Python
-* **Most loved**:
+* 🥇 JavaScript
+* 🥈 HTML/CSS
+* 🥉 SQL & Python
 
-  * 🧡 Rust
-  * 💙 TypeScript
-  * 💚 Python (close third, despite already being mainstream)
-* **Most wanted/favoured**:
+#### 💚 Most Loved Languages
 
-  * Python leads, possibly due to its **ease of learning** and **cross-domain applications**.
+* 🧡 Rust
+* 💙 TypeScript
+* 💚 Python (close third, despite already being mainstream)
+
+#### 🚫 Most Dreaded Languages
+
+These are languages developers **currently use** but **don’t want to continue** using in the future:
+
+* ❌ **VBA** and **Objective-C** — dreaded by nearly **80%** of users 😬
+* ❌ **Perl** and **Assembly** — dreaded by approximately **71%** of users 😓
+
+#### 💭 Most Wanted/Favoured
+
+* **Python** leads, likely due to its **ease of learning** and **broad applicability** across domains like web dev, data science, automation, and more.
 
 ### ⏱️ Work Habits
 
@@ -88,7 +98,6 @@ The dataset was obtained from StackOverflow's **2020 Developer Survey**, one of 
 
 ## 📌 Conclusion
 
-This analysis paints a broad picture of the global coding community as of 2020. While we celebrate the growth and enthusiasm in the field, there's a **clear call to action** for making programming **more accessible and inclusive** for all.
+This analysis paints a broad picture of the global coding community as of 2020. While we celebrate the growth and enthusiasm in the field, there's a **clear call to action** for making programming **more accessible and inclusive** for all. And maybe... drop that VBA code 😅.
 
 ---
-
