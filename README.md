@@ -1,4 +1,6 @@
-<img width="3017" height="1543" alt="Dashboard" src="https://github.com/user-attachments/assets/b0b93f76-f7f9-4790-8aca-303015cdae60" />
+
+<img width="3017" height="1543" alt="Dashboard" src="https://github.com/user-attachments/assets/7b5aafec-8b02-48b3-81bb-363f1b9c698b" />
+
 
 # 🧠 StackOverflow 
 2020 Developer Survey Analysis 📊
