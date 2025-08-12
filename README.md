@@ -85,8 +85,8 @@ The dataset was obtained from StackOverflow's 2020 Developer Survey, one of the 
 📊 Correlation & Regression: Age First Coded vs. Professional Experience
 * To explore whether starting to code early leads to a longer professional coding career, I conducted both a Pearson Correlation test and a Linear Regression analysis between 2 columns:
 
-* Age1stCode (age when the respondent first coded)
-* YearsCodePro (years of professional coding experience)
+* `Age1stCode` (age when the respondent first coded)
+* `YearsCodePro` (years of professional coding experience)
 
 This was done separately for:
 🧑‍💻 Hobbyists (those who started coding as a hobby) AND 👔 Non-Hobbyists
